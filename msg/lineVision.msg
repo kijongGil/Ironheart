@@ -1,0 +1,3 @@
+float32 line_data_1
+float32 line_data_2
+float32 line_stats
